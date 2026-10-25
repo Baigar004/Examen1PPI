@@ -1,0 +1,6 @@
+@Examen1PPI_ll_HostAddress = http://localhost:5010
+
+GET {{Examen1PPI_ll_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

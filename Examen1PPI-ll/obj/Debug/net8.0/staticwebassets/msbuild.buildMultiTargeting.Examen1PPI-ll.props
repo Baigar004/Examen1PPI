@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Examen1PPI-ll.props" />
+</Project>
